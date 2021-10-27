@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+a {
+    text-decoration: none;
+    color :black
+}
+a {
+    border: 1px transparent;
+    background-color: rgb(243, 201, 207);
+    padding: 1px;
+    border-radius: 4px;
+}
+a:hover{
+    background-color: rgb(243, 166, 177);
+}
+h1{
+    border-bottom: 1px solid black;
+    max-width: 255px;
+
+}
+.first:hover{
+    background-color: rgb(96, 228, 233);
+}
+.first{
+    background-color: rgb(194, 240, 241);
+}
